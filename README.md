@@ -1,39 +1,7 @@
-# Laporan-Project
 
-
-**Software Requirements**
-
-**Specification**
-
-**For**
-
-**Sistem UMKM Jacking’s Coffee**
-
-\
-
-
-**Prepared by :******
-
-******Rizqi Abdan Syakuron (2355301183)**
-
-**Syarifah Khaila Najwa Humaira (2355301194)**
-
-******Muhammad Surya Harja (2355301147)**
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
-
-_Politeknik Caltex Riau,Pekanbaru __2025_
-
+![Software Requirements_page-0001](https://github.com/user-attachments/assets/06560a36-012a-464f-abfb-beb8ee9f07f4)
 **BAB 1 Pendahuluan**
+
 
 ***
 
