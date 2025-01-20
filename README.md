@@ -17,7 +17,7 @@ Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi p
 
 Sistem website UMKM ini kami bangun untuk mensupport UMKM di indonesia salah satu nya Jacking’s coffee dimana tujuan nya untuk menaikan tingkat pelanggan dan juga mempermudah mereka dalam menjalani bisnis mereka. Sistem ini kami buat untuk mempermudah admin dan juga customer dalam menginputkan barang atau memesan barang berbasis website.
 
-\
+
 
 
 **1.3 Akronim, Singkatan, Definisi**
@@ -32,7 +32,7 @@ Sistem website UMKM ini kami bangun untuk mensupport UMKM di indonesia salah sat
 | UMKM                               | Usaha Mikro,kecil,dan Menegah                                                                                                |
 | Website                            | Halaman web yang saling terhubung dan dapat diakses melalui jaringan internet menggunakan sebuah domain atau alamat tertentu |
 
-\
+
 
 
 **1.4 Referensi**
@@ -42,11 +42,6 @@ Sistem website UMKM ini kami bangun untuk mensupport UMKM di indonesia salah sat
 Referensi yang kami gunakan dalam pengembangan perangkat lunak ini adalah 
 
 https\://myblackbirdcafe.com/
-
-\
-\
-\
-\
 
 
 **1.5 Overview**
@@ -98,19 +93,10 @@ Sistem website ini adalah sistem yang diaplikasikan ke dalam website terdapat 2 
 
 **2.1.1 Antarmuka Sistem**
 
-\
 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8qdKJbZum5aNAVtOU_dCoc3EkuViBWbAm0pJwnwv9youw8gQxhVzGMvO1VaPuMPQ3GEJKMnkE55R4KTG37Umy66_IwqlWo_NdClj2nikPUnLVlAl4H09BkvX1bEAc5eezQY5Z?key=2_QpGHPjQQkdDr8g-HMuORrn)
 
-\
-\
-\
-\
-\
-\
-\
-\
 
 
 **2.1.2 Antarmuka Pengguna**
