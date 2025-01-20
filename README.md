@@ -250,21 +250,6 @@ Admin dapat mengedit menu rekomendasi pada dashboard sesuai dengan menu yang ter
 \
 
 
-**2.2.5 Admin Kelola Galeri**
-
-**Deskripsi singkat** 
-
-\
-
-
-Admin dapat mengedit gambar pada galeri di menu dashboard, galeri ini merupakan tempat untuk memajang foto” yang diambil staff sebagai penghias web, foto” pada galeri ini dapat di edit sesuka admin.
-
-\
-\
-\
-
-
-********
 
 **2.2.8 Customer Mengunjungi Website**
 
