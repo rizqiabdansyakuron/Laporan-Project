@@ -89,14 +89,6 @@ UMKM (Usaha Mikro, Kecil, dan Menengah) merupakan sektor yang memainkan peran pe
 
 - Edit data
 
-\
-\
-\
-\
-\
-\
-\
-
 
 **2.1 Perspektif Produk**
 
